@@ -9,7 +9,7 @@
 - The exchange rate in the date it was done:
 - 1 EURO = 9.2902 TURKISH LIRAS 23/03/2021
 ## Libraries Used
-
+    scrapy
     seaborn
     matplotlib
     pandas
