@@ -8,6 +8,18 @@
 - MSE value: 71178.69893701086
 - The exchange rate in the date it was done:
 - 1 EURO = 9.2902 TURKISH LIRAS 23/03/2021
+## Libraries Used
+
+    seaborn
+    matplotlib
+    pandas
+    numpy
+    wordcloud
+    xgboost
+    scikitlearn
+    tkinter
+    time
+    
 ![merc_logo1](https://user-images.githubusercontent.com/39379330/113028402-e6015880-9193-11eb-81fa-a51667595952.gif)
 ![turkey-flag](https://user-images.githubusercontent.com/39379330/113028505-04ffea80-9194-11eb-996a-1a891ffbf090.gif)
 
