@@ -12,7 +12,7 @@
 ![turkey-flag](https://user-images.githubusercontent.com/39379330/113028505-04ffea80-9194-11eb-996a-1a891ffbf090.gif)
 
 ### Contact:
-- github.com/berkaycihan
+- [berkaycihan](github.com/berkaycihan)
 - kaggle.com/berkaycihan
 - linkedin.com/in/berkaycihan
 - thanks: @keyiflerolsun KekikAkademi
