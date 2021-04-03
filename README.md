@@ -23,7 +23,7 @@
 ![merc_logo1](https://user-images.githubusercontent.com/39379330/113028402-e6015880-9193-11eb-81fa-a51667595952.gif)
 ![turkey-flag](https://user-images.githubusercontent.com/39379330/113028505-04ffea80-9194-11eb-996a-1a891ffbf090.gif)
 
-### Contact:
+## Author / Contact:
 - [github-berkaycihan](https://github.com/berkaycihan)
 - [kaggle-berkaycihan](https://kaggle.com/berkaycihan)
 - [linkedin-berkaycihan](https://linkedin.com/in/berkaycihan)
