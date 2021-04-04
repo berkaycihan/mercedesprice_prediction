@@ -14,7 +14,6 @@
     matplotlib
     pandas
     numpy
-    wordcloud
     xgboost
     scikitlearn
     tkinter
