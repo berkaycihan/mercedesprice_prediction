@@ -10,6 +10,7 @@
 - 1 EURO = 9.2902 TURKISH LIRAS 23/03/2021
 - [youtube video](https://www.youtube.com/watch?v=mmT4Vb8OoZ0)
 ## Libraries Used
+    selenium
     scrapy
     seaborn
     matplotlib
