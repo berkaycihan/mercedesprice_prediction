@@ -1,0 +1,258 @@
+advertisement_number,brand,series,version,year,km,price,advertisement_date,gear,fuel,engine_capacity,engine_power,from,city
+#2798325,Mercedes,E Serisi,E 250 BlueTEC,2015,150.000,525.000 TL,22/03/2021,525.000 TL,Marka:,Otomatik Vites,Benzin,1801-2000 cc,Ankara
+#4324911,Mercedes,E Serisi,E 180 Elite,2013,80.200,389.000 TL,21/03/2021,389.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1301-1600 cc,Ankara
+#4590792,Mercedes,E Serisi,E 250 CDI BlueEfficiency Avantgarde,2010,302.000,310.000 TL,21/03/2021,310.000 TL,Marka:,Yarı Otomatik Vites,Dizel,2001-2500 cc,Kilis
+#2743421,Mercedes,E Serisi,E 220 CDI Elegance,2005,237.000,215.000 TL,21/03/2021,215.000 TL,Marka:,Yarı Otomatik Vites,Dizel,2001-2500 cc,Kilis
+#1184828,Mercedes,E Serisi,E 180 Exclusive,2018,33.500,695.000 TL,21/03/2021,695.000 TL,Marka:,Otomatik Vites,Benzin,1301-1600 cc,İstanbul
+#1371734,Mercedes,E Serisi,E 250 CDI Edition,2015,184.000,555.000 TL,21/03/2021,555.000 TL,Marka:,Yarı Otomatik Vites,Dizel,2001-2500 cc,Adana
+#4764206,Mercedes,E Serisi,E 300 AMG,2017,104.000,895.000 TL,21/03/2021,895.000 TL,Marka:,Otomatik Vites,Benzin,1801-2000 cc,İstanbul
+#1288254,Mercedes,E Serisi,E 200 Komp. Avantgarde,2004,287.000,225.000 TL,21/03/2021,225.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1601-1800 cc,Konya
+#4732863,Mercedes,E Serisi,E 200 Komp. Avantgarde,2004,219.000,225.000 TL,21/03/2021,225.000 TL,Marka:,Yarı Otomatik Vites,Benzin/LPG,1601-1800 cc,Ordu
+#4732869,Mercedes,E Serisi,E 180 AMG Premium,2014,56.000,529.000 TL,21/03/2021,529.000 TL,Marka:,Otomatik Vites,Benzin,1301-1600 cc,Ordu
+#379440,Mercedes,E Serisi,E 200 AMG,2016,101.000,549.000 TL,21/03/2021,549.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1801-2000 cc,Denizli
+#2801737,Mercedes,E Serisi,E 220 d Avantgarde,2016,167.000,629.900 TL,21/03/2021,629.900 TL,Marka:,Yarı Otomatik Vites,Dizel,1801-2000 cc,Bursa
+#3236666,Mercedes,E Serisi,Diğer,2020,0,1.470.000 TL,21/03/2021,1.470.000 TL,Marka:,Otomatik Vites,Dizel,1300 cc ve altı,İstanbul
+#3190405,Mercedes,E Serisi,E 220 d Exclusive,2017,53.321,920.000 TL,21/03/2021,920.000 TL,Marka:,Otomatik Vites,Dizel,1801-2000 cc,Samsun
+#4674231,Mercedes,E Serisi,Diğer,2016,138.000,439.900 TL,21/03/2021,439.900 TL,Marka:,Yarı Otomatik Vites,Benzin,1301-1600 cc,Giresun
+#228489,Mercedes,E Serisi,E 220 CDI BlueEfficiency,2011,199.000,323.000 TL,21/03/2021,323.000 TL,Marka:,Yarı Otomatik Vites,Dizel,2001-2500 cc,İstanbul
+#3437428,Mercedes,E Serisi,E 250 AMG 7G-Tronic,2015,150.000,460.000 TL,21/03/2021,460.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1801-2000 cc,Mersin
+#1590897,Mercedes,E Serisi,E 180 Exclusive,2018,34.000,581.900 TL,21/03/2021,581.900 TL,Marka:,Otomatik Vites,Benzin,1301-1600 cc,İstanbul
+#1229478,Mercedes,E Serisi,E 250 CGI Premium,2012,127.000,342.500 TL,21/03/2021,342.500 TL,Marka:,Yarı Otomatik Vites,Benzin,1601-1800 cc,Ankara
+#2751896,Mercedes,E Serisi,E 180 Exclusive,2018,51.000,655.000 TL,21/03/2021,655.000 TL,Marka:,Otomatik Vites,Benzin,1301-1600 cc,İstanbul
+#1360112,Mercedes,E Serisi,E 200 Komp. Elegance,2006,205.000,217.900 TL,21/03/2021,217.900 TL,Marka:,Yarı Otomatik Vites,Benzin/LPG,1601-1800 cc,Ankara
+#2154935,Mercedes,E Serisi,E 250 D 250 D,1993,550.000,89.000 TL,21/03/2021,89.000 TL,Marka:,Otomatik Vites,Dizel,1300 cc ve altı,Gaziantep
+#2275771,Mercedes,E Serisi,E 220 CDI Elegance,1997,446.000,105.000 TL,21/03/2021,105.000 TL,Marka:,Düz Vites,Dizel,1300 cc ve altı,Gaziantep
+#3834370,Mercedes,E Serisi,E 180 AMG,2018,12.500,700.000 TL,21/03/2021,700.000 TL,Marka:,Otomatik Vites,Benzin,1301-1600 cc,Antalya
+#4183304,Mercedes,E Serisi,E 200 200,1993,400.000,77.000 TL,21/03/2021,77.000 TL,Marka:,Düz Vites,Benzin/LPG,1801-2000 cc,Denizli
+#3584914,Mercedes,E Serisi,E 200 Komp. Avantgarde,2004,340.000,195.900 TL,21/03/2021,195.900 TL,Marka:,Yarı Otomatik Vites,Benzin/LPG,1601-1800 cc,Ankara
+#4052363,Mercedes,E Serisi,E 200 Komp. Avantgarde,2008,376.000,325.000 TL,21/03/2021,325.000 TL,Marka:,Otomatik Vites,Benzin/LPG,1601-1800 cc,Adıyaman
+#4727984,Mercedes,E Serisi,E 180 Elite,2015,79.000,420.000 TL,21/03/2021,420.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1301-1600 cc,Mardin
+#4798994,Mercedes,E Serisi,E 200 Avantgarde,1997,425.000,105.000 TL,21/03/2021,105.000 TL,Marka:,Otomatik Vites,Benzin/LPG,1801-2000 cc,Denizli
+#4785428,Mercedes,E Serisi,E 250 Elite,2014,177.000,413.000 TL,21/03/2021,413.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1801-2000 cc,Kayseri
+#4256629,Mercedes,E Serisi,E 180 AMG,2017,25.000,655.000 TL,21/03/2021,655.000 TL,Marka:,Otomatik Vites,Benzin,1301-1600 cc,İstanbul
+#2791021,Mercedes,E Serisi,E 220 CDI Avantgarde,2007,410.000,189.000 TL,21/03/2021,189.000 TL,Marka:,Yarı Otomatik Vites,Dizel,2001-2500 cc,İstanbul
+#1392873,Mercedes,E Serisi,E 320 Avantgarde,1996,358.000,87.500 TL,21/03/2021,87.500 TL,Marka:,Otomatik Vites,Benzin/LPG,3001-3500 cc,Manisa
+#1894177,Mercedes,E Serisi,E 250 CGI AMG,2013,154.000,459.900 TL,21/03/2021,459.900 TL,Marka:,Otomatik Vites,Benzin,1300 cc ve altı,Bursa
+#3337879,Mercedes,E Serisi,E 180 Edition E,2015,43.575,487.500 TL,21/03/2021,487.500 TL,Marka:,Yarı Otomatik Vites,Benzin,1301-1600 cc,İstanbul
+#2233534,Mercedes,E Serisi,E 300 300,1985,277.000,43.500 TL,21/03/2021,43.500 TL,Marka:,Düz Vites,Benzin/LPG,1300 cc ve altı,Gaziantep
+#4785009,Mercedes,E Serisi,E 250 CDI Premium,2015,94.000,600.000 TL,21/03/2021,600.000 TL,Marka:,Otomatik Vites,Dizel,2001-2500 cc,İstanbul
+#2369882,Mercedes,E Serisi,E 250 CDI Premium,2014,145.000,530.000 TL,21/03/2021,530.000 TL,Marka:,Otomatik Vites,Dizel,2001-2500 cc,Şanlıurfa
+#4607539,Mercedes,E Serisi,E 180 Edition E,2015,103.000,390.000 TL,21/03/2021,390.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1301-1600 cc,İstanbul
+#4607539,Mercedes,E Serisi,E 180 Edition E,2015,103.000,390.000 TL,21/03/2021,390.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1301-1600 cc,İstanbul
+#2578566,Mercedes,E Serisi,E 180 Edition E,2016,56.000,448.000 TL,21/03/2021,448.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1301-1600 cc,İstanbul
+#1182690,Mercedes,E Serisi,E 200 Elegance,1996,375.000,89.750 TL,21/03/2021,89.750 TL,Marka:,Otomatik Vites,Benzin/LPG,1801-2000 cc,Ankara
+#3103499,Mercedes,E Serisi,E 250 AMG 7G-Tronic,2014,93.000,485.000 TL,21/03/2021,485.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1801-2000 cc,Hatay
+#940198,Mercedes,E Serisi,E 320 Avantgarde,2001,278.000,140.000 TL,21/03/2021,140.000 TL,Marka:,Yarı Otomatik Vites,Benzin/LPG,3001-3500 cc,Gaziantep
+#1753347,Mercedes,E Serisi,E 180 Exclusive,2017,93.000,569.950 TL,21/03/2021,569.950 TL,Marka:,Otomatik Vites,Benzin,1301-1600 cc,İstanbul
+#1918831,Mercedes,E Serisi,E 200 Komp. Avantgarde,2004,501.000,176.900 TL,21/03/2021,176.900 TL,Marka:,Yarı Otomatik Vites,Benzin/LPG,1601-1800 cc,Denizli
+#4314454,Mercedes,E Serisi,E 180 Elite,2013,75.000,440.000 TL,21/03/2021,440.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1301-1600 cc,İstanbul
+İlan Tarihi:,Model:,Varyant:,Model Yılı:,Kilometre:,Yakıt Türü:,330.000 TL,Marka:,330.000 TL,Mercedes,Motor Hacmi:,Vites Tipi:,Motor Gücü:,İlan No:
+#2345373,Mercedes,E Serisi,E 200 Exclusive,2016,76.000,615.000 TL,21/03/2021,615.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1801-2000 cc,İstanbul
+#1764652,Mercedes,E Serisi,E 220 d Avantgarde,2017,184.000,680.000 TL,21/03/2021,680.000 TL,Marka:,Otomatik Vites,Dizel,1801-2000 cc,İstanbul
+#3075357,Mercedes,E Serisi,E 220 d AMG,2021,0,1.475.000 TL,21/03/2021,1.475.000 TL,Marka:,Otomatik Vites,Dizel,1801-2000 cc,İstanbul
+#4051572,Mercedes,E Serisi,E 200 Elegance,1997,329.000,74.500 TL,21/03/2021,74.500 TL,Marka:,Otomatik Vites,Benzin/LPG,1801-2000 cc,Elazığ
+#1345314,Mercedes,E Serisi,E 200 Komp. Avantgarde,2005,291.000,177.000 TL,21/03/2021,177.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1601-1800 cc,İstanbul
+#1028713,Mercedes,E Serisi,E 200 Avantgarde,1996,307.000,105.000 TL,21/03/2021,105.000 TL,Marka:,Otomatik Vites,Benzin/LPG,1801-2000 cc,İstanbul
+#4364555,Mercedes,E Serisi,E 220 CDI Start,2012,321.000,345.000 TL,21/03/2021,345.000 TL,Marka:,Otomatik Vites,Dizel,2001-2500 cc,Hatay
+#4414787,Mercedes,E Serisi,E 350 CDI BlueTEC Premium,2014,238.000,650.000 TL,21/03/2021,650.000 TL,Marka:,Otomatik Vites,Dizel,2501-3000 cc,Şanlıurfa
+#849611,Mercedes,E Serisi,E 250 Elite,2015,107.000,439.000 TL,21/03/2021,439.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1801-2000 cc,Ankara
+#2741239,Mercedes,E Serisi,E 200 CGI BlueEfficiency Prime,2010,235.000,298.000 TL,21/03/2021,298.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1601-1800 cc,Bursa
+#1516614,Mercedes,E Serisi,E 220 CDI Avantgarde,2009,270.000,258.000 TL,21/03/2021,258.000 TL,Marka:,Yarı Otomatik Vites,Dizel,2001-2500 cc,İstanbul
+#210654,Mercedes,E Serisi,E 220 d Exclusive,2016,40.000,780.000 TL,21/03/2021,780.000 TL,Marka:,Yarı Otomatik Vites,Dizel,1801-2000 cc,Zonguldak
+#2363908,Mercedes,E Serisi,E 250 EditionE,2015,42.000,590.000 TL,21/03/2021,590.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1801-2000 cc,Konya
+#2304191,Mercedes,E Serisi,E 250 CDI Premium,2013,127.000,495.000 TL,21/03/2021,495.000 TL,Marka:,Otomatik Vites,Dizel,2001-2500 cc,Konya
+#216669,Mercedes,E Serisi,E 320 Avantgarde,2001,312.000,145.000 TL,21/03/2021,145.000 TL,Marka:,Yarı Otomatik Vites,Benzin,3001-3500 cc,İstanbul
+#2168540,Mercedes,E Serisi,E 200 CGI BlueEfficiency Avantgarde,2010,205.000,354.500 TL,21/03/2021,354.500 TL,Marka:,Otomatik Vites,Benzin,1300 cc ve altı,Aydın
+#536822,Mercedes,E Serisi,E 220 d Avantgarde,2017,109.000,649.000 TL,21/03/2021,649.000 TL,Marka:,Otomatik Vites,Dizel,1801-2000 cc,İstanbul
+#4598418,Mercedes,E Serisi,E 220 d AMG,2017,53.000,950.000 TL,21/03/2021,950.000 TL,Marka:,Otomatik Vites,Dizel,1801-2000 cc,Ankara
+#4598418,Mercedes,E Serisi,E 220 d AMG,2017,53.000,950.000 TL,21/03/2021,950.000 TL,Marka:,Otomatik Vites,Dizel,1801-2000 cc,Ankara
+#2164615,Mercedes,E Serisi,E 200 CGI BlueEfficiency Avantgarde,2012,165.515,369.000 TL,21/03/2021,369.000 TL,Marka:,Otomatik Vites,Benzin,1300 cc ve altı,İstanbul
+#2164615,Mercedes,E Serisi,E 200 CGI BlueEfficiency Avantgarde,2012,165.515,369.000 TL,21/03/2021,369.000 TL,Marka:,Otomatik Vites,Benzin,1300 cc ve altı,İstanbul
+#3839337,Mercedes,E Serisi,E 200 Komp. Avantgarde,2006,250.000,232.000 TL,21/03/2021,232.000 TL,Marka:,Yarı Otomatik Vites,Benzin/LPG,1601-1800 cc,Manisa
+#4647775,Mercedes,E Serisi,E 200 Komp. Avantgarde,2004,363.284,204.750 TL,21/03/2021,204.750 TL,Marka:,Yarı Otomatik Vites,Benzin/LPG,1601-1800 cc,Ankara
+#2748310,Mercedes,E Serisi,E 200 200,1996,256.000,76.900 TL,21/03/2021,76.900 TL,Marka:,Düz Vites,Benzin/LPG,1300 cc ve altı,İstanbul
+#879272,Mercedes,E Serisi,E 230 Elegance,1996,400.000,97.000 TL,21/03/2021,97.000 TL,Marka:,Otomatik Vites,Benzin/LPG,1300 cc ve altı,İstanbul
+#317959,Mercedes,E Serisi,E 200 Avantgarde,1996,420.000,94.000 TL,21/03/2021,94.000 TL,Marka:,Otomatik Vites,Benzin/LPG,1801-2000 cc,Konya
+#4398784,Mercedes,E Serisi,E 180 AMG,2018,31.000,650.000 TL,21/03/2021,650.000 TL,Marka:,Otomatik Vites,Benzin,1301-1600 cc,İstanbul
+#2691912,Mercedes,E Serisi,E 250 CDI Premium,2012,168.000,364.750 TL,21/03/2021,364.750 TL,Marka:,Yarı Otomatik Vites,Dizel,2001-2500 cc,İstanbul
+#149410,Mercedes,E Serisi,E 200 CGI AMG,2010,166.000,298.950 TL,21/03/2021,298.950 TL,Marka:,Otomatik Vites,Benzin,1601-1800 cc,İstanbul
+#1206490,Mercedes,E Serisi,E 200 Komp. Avantgarde,2001,386.000,137.000 TL,21/03/2021,137.000 TL,Marka:,Yarı Otomatik Vites,Benzin/LPG,1801-2000 cc,Denizli
+#327376,Mercedes,E Serisi,E 180 Exclusive,2018,20.000,647.000 TL,21/03/2021,647.000 TL,Marka:,Otomatik Vites,Benzin,1301-1600 cc,İstanbul
+#386900,Mercedes,E Serisi,E 220 d AMG,1996,343.000,86.750 TL,21/03/2021,86.750 TL,Marka:,Otomatik Vites,Dizel,1300 cc ve altı,Ankara
+#3612124,Mercedes,E Serisi,E 250 CGI AMG,2011,187.000,315.000 TL,21/03/2021,315.000 TL,Marka:,Otomatik Vites,Benzin,1300 cc ve altı,Giresun
+#1484805,Mercedes,E Serisi,E 200 200,1994,220.000,98.000 TL,21/03/2021,98.000 TL,Marka:,Düz Vites,Benzin/LPG,1801-2000 cc,Konya
+#1499938,Mercedes,E Serisi,E 250 CDI Elite,2014,200.000,499.900 TL,21/03/2021,499.900 TL,Marka:,Yarı Otomatik Vites,Dizel,2001-2500 cc,İstanbul
+#1499938,Mercedes,E Serisi,E 250 CDI Elite,2014,200.000,499.900 TL,21/03/2021,499.900 TL,Marka:,Yarı Otomatik Vites,Dizel,2001-2500 cc,İstanbul
+#3860339,Mercedes,E Serisi,E 200 Komp. Avantgarde,2005,307.000,188.750 TL,21/03/2021,188.750 TL,Marka:,Yarı Otomatik Vites,Benzin/LPG,1601-1800 cc,Gaziantep
+#1236873,Mercedes,E Serisi,E 350 CDI Premium,2010,285.000,500.000 TL,18/03/2021,500.000 TL,Marka:,Yarı Otomatik Vites,Dizel,2501-3000 cc,Van
+#707235,Mercedes,E Serisi,E 200 Classic,1998,345.000,105.750 TL,17/03/2021,105.750 TL,Marka:,Düz Vites,Benzin/LPG,1801-2000 cc,Elazığ
+#707235,Mercedes,E Serisi,E 200 Classic,1998,345.000,105.750 TL,17/03/2021,105.750 TL,Marka:,Düz Vites,Benzin/LPG,1801-2000 cc,Elazığ
+#4160102,Mercedes,E Serisi,E 250 Elite,2013,189.000,389.000 TL,10/03/2021,389.000 TL,Marka:,Otomatik Vites,Benzin,2001-2500 cc,Aydın
+#2535361,Mercedes,E Serisi,E 200 Elegance,1997,41.500,110.000 TL,01/03/2021,110.000 TL,Marka:,Otomatik Vites,Benzin/LPG,1801-2000 cc,Rize
+#2535361,Mercedes,E Serisi,E 200 Elegance,1997,41.500,110.000 TL,01/03/2021,110.000 TL,Marka:,Otomatik Vites,Benzin/LPG,1801-2000 cc,Rize
+#2722123,Mercedes,E Serisi,E 180 AMG Premium,2014,138.000,399.900 TL,24/02/2021,399.900 TL,Marka:,Otomatik Vites,Benzin,1301-1600 cc,İstanbul
+#3222257,Mercedes,E Serisi,E 63 AMG,2018,24.000,2.475.000 TL,16/02/2021,2.475.000 TL,Marka:,Otomatik Vites,Benzin,3501-4000 cc,Hatay
+#3449286,Mercedes,E Serisi,E 220 CDI Avantgarde,2009,270.000,290.000 TL,16/02/2021,290.000 TL,Marka:,Yarı Otomatik Vites,Dizel,2001-2500 cc,Yozgat
+#2688657,Mercedes,E Serisi,E 180 Edition E,2015,133.000,419.900 TL,15/02/2021,419.900 TL,Marka:,Yarı Otomatik Vites,Benzin,1301-1600 cc,İstanbul
+#297281,Mercedes,E Serisi,E 180 AMG,2018,32.000,708.500 TL,15/02/2021,708.500 TL,Marka:,Otomatik Vites,Benzin,1301-1600 cc,İstanbul
+#2316769,Mercedes,E Serisi,E 200 CGI BlueEfficiency Avantgarde,2010,188.000,325.000 TL,15/02/2021,325.000 TL,Marka:,Otomatik Vites,Benzin,1300 cc ve altı,Erzincan
+#4110574,Mercedes,E Serisi,E 200 Elegance,1997,425.000,84.500 TL,15/02/2021,84.500 TL,Marka:,Otomatik Vites,Benzin/LPG,1801-2000 cc,Ankara
+#1329518,Mercedes,E Serisi,E 180 Elite,2015,180.229,386.500 TL,15/02/2021,386.500 TL,Marka:,Yarı Otomatik Vites,Benzin,1301-1600 cc,İstanbul
+#4672364,Mercedes,E Serisi,E 180 Exclusive,2018,35.000,612.000 TL,15/02/2021,612.000 TL,Marka:,Otomatik Vites,Benzin,1301-1600 cc,İstanbul
+#4120326,Mercedes,E Serisi,E 180 Exclusive,2018,59.000,650.000 TL,15/02/2021,650.000 TL,Marka:,Otomatik Vites,Benzin,1301-1600 cc,Yalova
+#1748166,Mercedes,E Serisi,E 180 Elite,2013,117.000,379.900 TL,15/02/2021,379.900 TL,Marka:,Yarı Otomatik Vites,Benzin,1301-1600 cc,Aydın
+#4493900,Mercedes,E Serisi,E 180 Edition E,2015,95.000,450.000 TL,15/02/2021,450.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1301-1600 cc,Adana
+#1992300,Mercedes,E Serisi,E 250 D Classic,1987,595.000,62.500 TL,15/02/2021,62.500 TL,Marka:,Düz Vites,Dizel,1300 cc ve altı,Malatya
+#3650951,Mercedes,E Serisi,E 350 CDI Premium,2011,169.000,495.900 TL,15/02/2021,495.900 TL,Marka:,Otomatik Vites,Dizel,1300 cc ve altı,Adana
+#4154400,Mercedes,E Serisi,E 250 CDI AMG,2013,110.000,509.500 TL,15/02/2021,509.500 TL,Marka:,Otomatik Vites,Dizel,2001-2500 cc,İstanbul
+#2499145,Mercedes,E Serisi,E 180 Exclusive,2017,94.000,592.500 TL,15/02/2021,592.500 TL,Marka:,Otomatik Vites,Benzin,1301-1600 cc,İstanbul
+#3055160,Mercedes,E Serisi,E 180 Avantgarde,2017,50.000,559.900 TL,15/02/2021,559.900 TL,Marka:,Otomatik Vites,Benzin,1301-1600 cc,Ankara
+#2295001,Mercedes,E Serisi,E 200 Komp. Avantgarde,2005,360.000,185.000 TL,15/02/2021,185.000 TL,Marka:,Yarı Otomatik Vites,Benzin/LPG,1601-1800 cc,İzmir
+#239688,Mercedes,E Serisi,E 180 Elite,2015,145.000,405.000 TL,15/02/2021,405.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1301-1600 cc,İstanbul
+#1327296,Mercedes,E Serisi,E 200 Komp. Elegance,2003,157.000,193.000 TL,15/02/2021,193.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1601-1800 cc,Denizli
+#3132403,Mercedes,E Serisi,E 200 Elegance,1997,266.000,90.000 TL,15/02/2021,90.000 TL,Marka:,Otomatik Vites,Benzin/LPG,1801-2000 cc,Burdur
+İlan Tarihi:,Model:,Varyant:,Model Yılı:,Kilometre:,Yakıt Türü:,101.000 TL,Marka:,101.000 TL,Mercedes,Motor Hacmi:,Vites Tipi:,Motor Gücü:,İlan No:
+#2992377,Mercedes,E Serisi,E 200 CGI AMG,2010,298.000,284.000 TL,15/02/2021,284.000 TL,Marka:,Otomatik Vites,Benzin,1601-1800 cc,Hatay
+#4431571,Mercedes,E Serisi,E 220 d Avantgarde,2016,140.000,664.500 TL,15/02/2021,664.500 TL,Marka:,Yarı Otomatik Vites,Dizel,1801-2000 cc,İstanbul
+#4441510,Mercedes,E Serisi,E 180 Exclusive,2018,44.000,745.000 TL,15/02/2021,745.000 TL,Marka:,Otomatik Vites,Benzin,1301-1600 cc,İstanbul
+#4781201,Mercedes,E Serisi,E 240 Elegance,2002,272.000,182.500 TL,15/02/2021,182.500 TL,Marka:,Otomatik Vites,Benzin/LPG,2501-3000 cc,İstanbul
+#4411985,Mercedes,E Serisi,E 180 Edition E,2015,137.000,425.000 TL,15/02/2021,425.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1301-1600 cc,Gaziantep
+#3400690,Mercedes,E Serisi,E 250 CDI Elite,2013,187.000,456.000 TL,15/02/2021,456.000 TL,Marka:,Yarı Otomatik Vites,Dizel,2001-2500 cc,İstanbul
+#749766,Mercedes,E Serisi,E 220 d AMG,2016,64.900,750.000 TL,15/02/2021,750.000 TL,Marka:,Yarı Otomatik Vites,Dizel,1801-2000 cc,İzmir
+#4014807,Mercedes,E Serisi,E 180 Edition E,2015,110.000,415.000 TL,15/02/2021,415.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1301-1600 cc,İstanbul
+#4167675,Mercedes,E Serisi,E 200 Komp. Avantgarde,2005,291.000,187.019 TL,15/02/2021,187.019 TL,Marka:,Yarı Otomatik Vites,Benzin/LPG,1601-1800 cc,İstanbul
+#3686001,Mercedes,E Serisi,E 180 Elite,2014,107.000,372.750 TL,15/02/2021,372.750 TL,Marka:,Yarı Otomatik Vites,Benzin,1301-1600 cc,İstanbul
+#4508892,Mercedes,E Serisi,E 220 CDI Avantgarde,2008,230.000,231.750 TL,15/02/2021,231.750 TL,Marka:,Yarı Otomatik Vites,Dizel,2001-2500 cc,Kocaeli
+#2414109,Mercedes,E Serisi,E 200 CGI AMG,2010,165.000,308.950 TL,15/02/2021,308.950 TL,Marka:,Otomatik Vites,Benzin,1601-1800 cc,İstanbul
+#3226269,Mercedes,E Serisi,E 250 CGI AMG,2011,113.000,309.950 TL,15/02/2021,309.950 TL,Marka:,Yarı Otomatik Vites,Benzin,1300 cc ve altı,İstanbul
+#1450995,Mercedes,E Serisi,E 180 Elite,2014,97.000,460.000 TL,15/02/2021,460.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1301-1600 cc,İstanbul
+#4004835,Mercedes,E Serisi,E 200 CGI AMG,2010,184.000,285.000 TL,15/02/2021,285.000 TL,Marka:,Otomatik Vites,Benzin,1601-1800 cc,Kilis
+#440762,Mercedes,E Serisi,E 220 d AMG,2020,10,1.380.000 TL,15/02/2021,1.380.000 TL,Marka:,Otomatik Vites,Dizel,1801-2000 cc,İstanbul
+#1768905,Mercedes,E Serisi,E 250 AMG 7G-Tronic,2016,98.898,545.000 TL,15/02/2021,545.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1801-2000 cc,İstanbul
+#999751,Mercedes,E Serisi,E 350 CDI BlueEfficiency Elegance,2011,173.000,395.000 TL,15/02/2021,395.000 TL,Marka:,Yarı Otomatik Vites,Dizel,2501-3000 cc,İstanbul
+#2673129,Mercedes,E Serisi,E 300 BlueTEC Hybrid,2020,224,1.475.000 TL,15/02/2021,1.475.000 TL,Marka:,Otomatik Vites,Benzin,1300 cc ve altı,İstanbul
+#2703516,Mercedes,E Serisi,E 300 BlueTEC Hybrid,2020,2.850,1.450.000 TL,15/02/2021,1.450.000 TL,Marka:,Otomatik Vites,Benzin,1300 cc ve altı,İstanbul
+#4064768,Mercedes,E Serisi,E 250 CGI Premium,2011,157.237,293.500 TL,15/02/2021,293.500 TL,Marka:,Otomatik Vites,Benzin,1601-1800 cc,İstanbul
+#225048,Mercedes,E Serisi,E 300 CGI AMG,2018,3.741,1.315.000 TL,15/02/2021,1.315.000 TL,Marka:,Otomatik Vites,Benzin,1801-2000 cc,İstanbul
+#4092680,Mercedes,E Serisi,E 180 AMG,2018,32.900,760.000 TL,15/02/2021,760.000 TL,Marka:,Otomatik Vites,Benzin,1301-1600 cc,Ankara
+#530308,Mercedes,E Serisi,E 180 Elite,2016,93.500,449.000 TL,09/02/2021,449.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1300 cc ve altı,İstanbul
+#3331132,Mercedes,E Serisi,E 300 AMG,2020,1.700,1.455.000 TL,08/02/2021,1.455.000 TL,Marka:,Otomatik Vites,Benzin,1300 cc ve altı,Bursa
+#2124430,Mercedes,E Serisi,E 180 Edition E,2015,48.180,496.000 TL,08/02/2021,496.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1301-1600 cc,İstanbul
+#3058914,Mercedes,E Serisi,E 180 Elite,2013,232.000,359.000 TL,08/02/2021,359.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1301-1600 cc,Van
+#2510313,Mercedes,E Serisi,E 220 d AMG,2016,66.300,749.000 TL,05/02/2021,749.000 TL,Marka:,Yarı Otomatik Vites,Dizel,1801-2000 cc,İstanbul
+#3090310,Mercedes,E Serisi,E 180 Exclusive,2018,22.289,625.000 TL,05/02/2021,625.000 TL,Marka:,Otomatik Vites,Benzin,1301-1600 cc,İstanbul
+#3278006,Mercedes,E Serisi,E 220 d AMG,2017,81.000,825.000 TL,05/02/2021,825.000 TL,Marka:,Otomatik Vites,Dizel,1801-2000 cc,İzmir
+#2056048,Mercedes,E Serisi,E 180 Exclusive,2018,59.000,620.000 TL,05/02/2021,620.000 TL,Marka:,Otomatik Vites,Benzin,1301-1600 cc,Yalova
+#1322308,Mercedes,E Serisi,E 180 Elite,2014,117.000,400.000 TL,05/02/2021,400.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1301-1600 cc,İzmir
+#4668664,Mercedes,E Serisi,E 220 d Exclusive,2016,84.000,729.000 TL,05/02/2021,729.000 TL,Marka:,Yarı Otomatik Vites,Dizel,1801-2000 cc,Uşak
+#1356212,Mercedes,E Serisi,E 200 200,1994,358.000,88.000 TL,05/02/2021,88.000 TL,Marka:,Düz Vites,Benzin/LPG,1300 cc ve altı,İstanbul
+#255596,Mercedes,E Serisi,E 200 Elegance,1998,361.000,86.500 TL,05/02/2021,86.500 TL,Marka:,Otomatik Vites,Benzin/LPG,1801-2000 cc,Ankara
+#2877850,Mercedes,E Serisi,E 180 Elite,2013,143.000,382.000 TL,05/02/2021,382.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1301-1600 cc,Tekirdağ
+#2722786,Mercedes,E Serisi,E 180 Exclusive,2018,39.000,825.000 TL,05/02/2021,825.000 TL,Marka:,Otomatik Vites,Benzin,1301-1600 cc,Ankara
+#4547963,Mercedes,E Serisi,E 180 Premium,2014,102.854,417.500 TL,05/02/2021,417.500 TL,Marka:,Yarı Otomatik Vites,Benzin,1301-1600 cc,İzmir
+#1628413,Mercedes,E Serisi,E 180 AMG Premium,2015,24.000,589.000 TL,05/02/2021,589.000 TL,Marka:,Otomatik Vites,Benzin,1301-1600 cc,Kilis
+#2899087,Mercedes,E Serisi,E 180 Edition E,2016,44.000,515.000 TL,05/02/2021,515.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1301-1600 cc,Kilis
+#3751088,Mercedes,E Serisi,E 220 d Exclusive,2016,110.000,645.000 TL,05/02/2021,645.000 TL,Marka:,Yarı Otomatik Vites,Dizel,1801-2000 cc,İstanbul
+#1671277,Mercedes,E Serisi,E 250 AMG 7G-Tronic,2015,97.000,535.900 TL,05/02/2021,535.900 TL,Marka:,Yarı Otomatik Vites,Benzin,1801-2000 cc,İstanbul
+#557980,Mercedes,E Serisi,E 180 Elite,2014,165.000,314.750 TL,05/02/2021,314.750 TL,Marka:,Yarı Otomatik Vites,Benzin,1301-1600 cc,Diyarbakır
+#3571400,Mercedes,E Serisi,E 200 Komp. Avantgarde,2004,340.000,198.500 TL,05/02/2021,198.500 TL,Marka:,Yarı Otomatik Vites,Benzin/LPG,1601-1800 cc,Ankara
+#3646960,Mercedes,E Serisi,E 320 Avantgarde,2002,325.000,185.000 TL,05/02/2021,185.000 TL,Marka:,Otomatik Vites,Benzin,3001-3500 cc,Ordu
+#2597119,Mercedes,E Serisi,E 250 Elite,2014,177.000,413.000 TL,05/02/2021,413.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1801-2000 cc,Kayseri
+#3629161,Mercedes,E Serisi,E 250 Elite,2013,107.000,530.000 TL,05/02/2021,530.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1801-2000 cc,Manisa
+#449857,Mercedes,E Serisi,E 200 Elegance,1996,380.000,92.500 TL,05/02/2021,92.500 TL,Marka:,Otomatik Vites,Benzin/LPG,1801-2000 cc,Ankara
+#449857,Mercedes,E Serisi,E 200 Elegance,1996,380.000,92.500 TL,05/02/2021,92.500 TL,Marka:,Otomatik Vites,Benzin/LPG,1801-2000 cc,Ankara
+#4019097,Mercedes,E Serisi,Diğer,2016,137.000,439.900 TL,05/02/2021,439.900 TL,Marka:,Yarı Otomatik Vites,Benzin,1301-1600 cc,Giresun
+#1106368,Mercedes,E Serisi,E 350 CDI BlueEfficiency Elegance,2010,235.000,400.000 TL,05/02/2021,400.000 TL,Marka:,Yarı Otomatik Vites,Dizel,2501-3000 cc,Nevşehir
+#690132,Mercedes,E Serisi,E 250 CGI AMG,2013,102.000,425.000 TL,05/02/2021,425.000 TL,Marka:,Otomatik Vites,Benzin,1300 cc ve altı,İstanbul
+#1999916,Mercedes,E Serisi,E 200 Komp. Avantgarde,2005,198.000,234.000 TL,05/02/2021,234.000 TL,Marka:,Yarı Otomatik Vites,Benzin/LPG,1601-1800 cc,İstanbul
+#1411441,Mercedes,E Serisi,E 180 Exclusive,2017,43.000,622.500 TL,05/02/2021,622.500 TL,Marka:,Otomatik Vites,Benzin,1301-1600 cc,İstanbul
+#466545,Mercedes,E Serisi,E 180 Avantgarde,2017,72.000,559.000 TL,05/02/2021,559.000 TL,Marka:,Otomatik Vites,Benzin,1301-1600 cc,İstanbul
+#4142837,Mercedes,E Serisi,E 250 CDI Edition,2015,167.000,545.000 TL,05/02/2021,545.000 TL,Marka:,Yarı Otomatik Vites,Dizel,2001-2500 cc,İstanbul
+#2571859,Mercedes,E Serisi,E 180 Edition E,2015,55.000,472.000 TL,05/02/2021,472.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1301-1600 cc,İstanbul
+#2438193,Mercedes,E Serisi,E 180 AMG,2018,30.000,655.000 TL,05/02/2021,655.000 TL,Marka:,Otomatik Vites,Benzin,1301-1600 cc,İstanbul
+#340445,Mercedes,E Serisi,E 220 d Avantgarde,2020,15,1.105.000 TL,05/02/2021,1.105.000 TL,Marka:,Otomatik Vites,Dizel,1300 cc ve altı,İstanbul
+#4641759,Mercedes,E Serisi,E 200 AMG,2016,62.459,725.000 TL,05/02/2021,725.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1801-2000 cc,İstanbul
+#4248118,Mercedes,E Serisi,E 300 AMG,2020,12,1.475.000 TL,05/02/2021,1.475.000 TL,Marka:,Otomatik Vites,Benzin,1300 cc ve altı,İstanbul
+#2937093,Mercedes,E Serisi,E 320 Avantgarde,2004,253.217,225.000 TL,05/02/2021,225.000 TL,Marka:,Otomatik Vites,Benzin/LPG,3001-3500 cc,İstanbul
+#3216159,Mercedes,E Serisi,E 320 CDI Avantgarde,2001,200.000,134.900 TL,05/02/2021,134.900 TL,Marka:,Yarı Otomatik Vites,Dizel,3001-3500 cc,Kilis
+#2261094,Mercedes,E Serisi,E 250 AMG 7G-Tronic,2013,60.845,478.000 TL,24/01/2021,478.000 TL,Marka:,Otomatik Vites,Benzin,1300 cc ve altı,İstanbul
+#2077809,Mercedes,E Serisi,E 320 Elegance,1996,230.000,82.500 TL,24/01/2021,82.500 TL,Marka:,Otomatik Vites,Benzin/LPG,3001-3500 cc,Gaziantep
+İlan Tarihi:,Model:,Varyant:,Model Yılı:,Kilometre:,Yakıt Türü:,995.000 TL,Marka:,995.000 TL,Mercedes,Motor Hacmi:,Vites Tipi:,Motor Gücü:,İlan No:
+#1445750,Mercedes,E Serisi,E 180 Avantgarde,2017,50.000,574.900 TL,24/01/2021,574.900 TL,Marka:,Otomatik Vites,Benzin,1301-1600 cc,Ankara
+#203188,Mercedes,E Serisi,E 200 CGI BlueEfficiency Avantgarde,2011,198.000,278.000 TL,24/01/2021,278.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1300 cc ve altı,İstanbul
+#3019458,Mercedes,E Serisi,E 220 d Exclusive,2016,89.909,745.000 TL,24/01/2021,745.000 TL,Marka:,Yarı Otomatik Vites,Dizel,1801-2000 cc,İstanbul
+#1430879,Mercedes,E Serisi,E 200 CGI AMG,2011,132.000,352.900 TL,24/01/2021,352.900 TL,Marka:,Yarı Otomatik Vites,Benzin/LPG,1300 cc ve altı,İstanbul
+#3365549,Mercedes,E Serisi,E 220 CDI Avantgarde,2007,412.000,189.999 TL,24/01/2021,189.999 TL,Marka:,Yarı Otomatik Vites,Dizel,2001-2500 cc,İstanbul
+#2828728,Mercedes,E Serisi,E 180 Elite,2013,93.000,405.000 TL,24/01/2021,405.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1301-1600 cc,Denizli
+#2158989,Mercedes,E Serisi,E 220 CDI Avantgarde,2006,335.000,230.000 TL,24/01/2021,230.000 TL,Marka:,Yarı Otomatik Vites,Dizel,2001-2500 cc,Adıyaman
+#1392875,Mercedes,E Serisi,E 180 Exclusive,2018,16.000,686.000 TL,24/01/2021,686.000 TL,Marka:,Otomatik Vites,Benzin,1301-1600 cc,İstanbul
+#1500003,Mercedes,E Serisi,E 250 CDI Edition,2016,125.000,705.000 TL,24/01/2021,705.000 TL,Marka:,Yarı Otomatik Vites,Dizel,2001-2500 cc,Ankara
+#3597138,Mercedes,E Serisi,E 280 CDI Avantgarde,2008,212.000,335.000 TL,24/01/2021,335.000 TL,Marka:,Otomatik Vites,Dizel,1300 cc ve altı,Konya
+#917791,Mercedes,E Serisi,E 250 AMG 7G-Tronic,2015,80.000,504.950 TL,24/01/2021,504.950 TL,Marka:,Yarı Otomatik Vites,Benzin,1801-2000 cc,İstanbul
+#3384801,Mercedes,E Serisi,Diğer,1996,197.000,94.750 TL,24/01/2021,94.750 TL,Marka:,Otomatik Vites,Dizel,1300 cc ve altı,İstanbul
+#2040193,Mercedes,E Serisi,E 180 Exclusive,2017,127.000,619.000 TL,24/01/2021,619.000 TL,Marka:,Otomatik Vites,Benzin,1301-1600 cc,Gaziantep
+#4684029,Mercedes,E Serisi,E 180 Exclusive,2018,56.000,685.000 TL,24/01/2021,685.000 TL,Marka:,Otomatik Vites,Benzin,1301-1600 cc,Gaziantep
+#3464446,Mercedes,E Serisi,E 200 AMG,2016,72.000,689.500 TL,24/01/2021,689.500 TL,Marka:,Yarı Otomatik Vites,Benzin,1801-2000 cc,Gaziantep
+#3775892,Mercedes,E Serisi,E 250 CDI Elite Avantgarde,2012,177.000,429.900 TL,24/01/2021,429.900 TL,Marka:,Otomatik Vites,Dizel,2001-2500 cc,Hatay
+#4445128,Mercedes,E Serisi,E 200 AMG,2016,62.000,613.000 TL,24/01/2021,613.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1801-2000 cc,Gaziantep
+#4781951,Mercedes,E Serisi,E 220 d Avantgarde,2017,184.000,715.000 TL,24/01/2021,715.000 TL,Marka:,Otomatik Vites,Dizel,1801-2000 cc,İstanbul
+#2514556,Mercedes,E Serisi,E 180 Elite,2014,220.000,356.950 TL,24/01/2021,356.950 TL,Marka:,Yarı Otomatik Vites,Benzin,1301-1600 cc,İstanbul
+#511133,Mercedes,E Serisi,Diğer,2016,107.000,443.900 TL,24/01/2021,443.900 TL,Marka:,Yarı Otomatik Vites,Benzin,1301-1600 cc,İstanbul
+#855231,Mercedes,E Serisi,E 180 Elite,2015,51.000,489.900 TL,24/01/2021,489.900 TL,Marka:,Yarı Otomatik Vites,Benzin,1301-1600 cc,İstanbul
+#1151862,Mercedes,E Serisi,E 180 AMG,2017,91.942,563.500 TL,24/01/2021,563.500 TL,Marka:,Otomatik Vites,Benzin,1301-1600 cc,İstanbul
+#1190253,Mercedes,E Serisi,E 220 Classic,1995,318.405,192.500 TL,24/01/2021,192.500 TL,Marka:,Otomatik Vites,Benzin/LPG,1300 cc ve altı,İstanbul
+#1201587,Mercedes,E Serisi,E 350 CDI BlueEfficiency Elegance,2011,173.000,399.500 TL,24/01/2021,399.500 TL,Marka:,Yarı Otomatik Vites,Dizel,2501-3000 cc,İstanbul
+#3688116,Mercedes,E Serisi,E 250 AMG 7G-Tronic,2016,98.898,545.000 TL,24/01/2021,545.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1801-2000 cc,İstanbul
+#3202318,Mercedes,E Serisi,E 180 Exclusive,2017,10.480,699.000 TL,24/01/2021,699.000 TL,Marka:,Otomatik Vites,Benzin,1301-1600 cc,İstanbul
+#4101418,Mercedes,E Serisi,E 300 AMG,2017,32.162,995.000 TL,24/01/2021,995.000 TL,Marka:,Otomatik Vites,Benzin,1801-2000 cc,İstanbul
+#4769155,Mercedes,E Serisi,E 300 BlueTEC Hybrid,2020,2.850,1.450.000 TL,24/01/2021,1.450.000 TL,Marka:,Otomatik Vites,Benzin,1300 cc ve altı,İstanbul
+#920893,Mercedes,E Serisi,E 300 CGI AMG,2018,3.741,1.315.000 TL,24/01/2021,1.315.000 TL,Marka:,Otomatik Vites,Benzin,1801-2000 cc,İstanbul
+#2089005,Mercedes,E Serisi,E 220 CDI Avantgarde,2011,83.149,450.000 TL,24/01/2021,450.000 TL,Marka:,Otomatik Vites,Dizel,1300 cc ve altı,İstanbul
+#752206,Mercedes,E Serisi,E 180 Exclusive,2018,47.451,688.000 TL,24/01/2021,688.000 TL,Marka:,Otomatik Vites,Benzin,1301-1600 cc,İstanbul
+#752206,Mercedes,E Serisi,E 180 Exclusive,2018,47.451,688.000 TL,24/01/2021,688.000 TL,Marka:,Otomatik Vites,Benzin,1301-1600 cc,İstanbul
+#2398436,Mercedes,E Serisi,E 180 AMG,2018,37.422,698.000 TL,24/01/2021,698.000 TL,Marka:,Otomatik Vites,Benzin,1301-1600 cc,İstanbul
+#4281994,Mercedes,E Serisi,E 180 Avantgarde,2018,40.000,609.500 TL,24/01/2021,609.500 TL,Marka:,Otomatik Vites,Benzin,1301-1600 cc,İstanbul
+#439121,Mercedes,E Serisi,E 180 AMG Premium,2015,98.000,535.000 TL,24/01/2021,535.000 TL,Marka:,Otomatik Vites,Benzin,1301-1600 cc,Ordu
+#3674561,Mercedes,E Serisi,E 200 Komp. Avantgarde,2003,60.443,240.000 TL,24/01/2021,240.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1601-1800 cc,İstanbul
+#1063272,Mercedes,E Serisi,E 180 Exclusive,2017,104.000,625.000 TL,24/01/2021,625.000 TL,Marka:,Otomatik Vites,Benzin,1301-1600 cc,İstanbul
+#1266059,Mercedes,E Serisi,E 180 AMG Premium,2015,153.000,470.000 TL,24/01/2021,470.000 TL,Marka:,Otomatik Vites,Benzin,1301-1600 cc,Ankara
+#3751843,Mercedes,E Serisi,E 250 D Classic,1987,590.000,62.500 TL,13/01/2021,62.500 TL,Marka:,Düz Vites,Dizel,1300 cc ve altı,Malatya
+#3683514,Mercedes,E Serisi,E 250 CDI Edition,2015,120.000,539.900 TL,11/01/2021,539.900 TL,Marka:,Yarı Otomatik Vites,Dizel,2001-2500 cc,İstanbul
+#1003358,Mercedes,E Serisi,E 250 AMG 7G-Tronic,2015,74.000,525.900 TL,11/01/2021,525.900 TL,Marka:,Yarı Otomatik Vites,Benzin,1801-2000 cc,İstanbul
+#706074,Mercedes,E Serisi,E 180 Edition E,2015,125.000,473.000 TL,06/01/2021,473.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1301-1600 cc,Kilis
+#3095235,Mercedes,E Serisi,E 180 Edition E,2015,132.000,445.900 TL,06/01/2021,445.900 TL,Marka:,Yarı Otomatik Vites,Benzin,1301-1600 cc,İstanbul
+#2341645,Mercedes,E Serisi,E 200 Elegance,1998,308.000,95.000 TL,06/01/2021,95.000 TL,Marka:,Otomatik Vites,Benzin/LPG,1801-2000 cc,Hatay
+#4504264,Mercedes,E Serisi,E 180 Elite,2015,162.065,382.000 TL,06/01/2021,382.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1301-1600 cc,Uşak
+#4504264,Mercedes,E Serisi,E 180 Elite,2015,162.065,382.000 TL,06/01/2021,382.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1301-1600 cc,Uşak
+İlan Tarihi:,Model:,Varyant:,Model Yılı:,Kilometre:,Yakıt Türü:,1.070.000 TL,Marka:,1.070.000 TL,Mercedes,Motor Hacmi:,Vites Tipi:,Motor Gücü:,İlan No:
+#3674372,Mercedes,E Serisi,E 220 CDI Avantgarde,2003,398.000,176.500 TL,06/01/2021,176.500 TL,Marka:,Yarı Otomatik Vites,Dizel,2001-2500 cc,Ankara
+#783826,Mercedes,E Serisi,E 180 Premium,2014,102.854,423.000 TL,06/01/2021,423.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1301-1600 cc,İzmir
+#3421205,Mercedes,E Serisi,E 180 AMG Premium,2015,24.000,600.000 TL,06/01/2021,600.000 TL,Marka:,Otomatik Vites,Benzin,1301-1600 cc,Kilis
+#2739906,Mercedes,E Serisi,E 180 Edition E,2016,44.000,515.000 TL,06/01/2021,515.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1301-1600 cc,Kilis
+#4238195,Mercedes,E Serisi,E 200 AMG,2016,85.000,825.950 TL,06/01/2021,825.950 TL,Marka:,Yarı Otomatik Vites,Benzin,1801-2000 cc,İstanbul
+#628905,Mercedes,E Serisi,E 200 Komp. Avantgarde,2004,340.000,199.500 TL,06/01/2021,199.500 TL,Marka:,Yarı Otomatik Vites,Benzin/LPG,1601-1800 cc,Ankara
+#4434444,Mercedes,E Serisi,E 250 CDI Avantgarde,2011,230.000,294.000 TL,06/01/2021,294.000 TL,Marka:,Yarı Otomatik Vites,Dizel,2001-2500 cc,İstanbul
+#1826263,Mercedes,E Serisi,E 250 CGI Premium,2013,149.000,439.000 TL,06/01/2021,439.000 TL,Marka:,Otomatik Vites,Benzin,1801-2000 cc,Kocaeli
+#1826263,Mercedes,E Serisi,E 250 CGI Premium,2013,149.000,439.000 TL,06/01/2021,439.000 TL,Marka:,Otomatik Vites,Benzin,1801-2000 cc,Kocaeli
+#1232008,Mercedes,E Serisi,E 220 d AMG,2020,0,1.400.000 TL,06/01/2021,1.400.000 TL,Marka:,Otomatik Vites,Dizel,1801-2000 cc,İstanbul
+#4004754,Mercedes,E Serisi,E 220 d AMG,2020,0,1.400.000 TL,06/01/2021,1.400.000 TL,Marka:,Otomatik Vites,Dizel,1801-2000 cc,İstanbul
+#3686398,Mercedes,E Serisi,E 180 AMG,2017,127.000,619.500 TL,06/01/2021,619.500 TL,Marka:,Otomatik Vites,Benzin,1301-1600 cc,Gaziantep
+#2878633,Mercedes,E Serisi,E 180 Exclusive,2018,80.000,735.000 TL,06/01/2021,735.000 TL,Marka:,Otomatik Vites,Benzin,1301-1600 cc,Ankara
+#4604190,Mercedes,E Serisi,E 180 Exclusive,2017,120.000,575.900 TL,06/01/2021,575.900 TL,Marka:,Otomatik Vites,Benzin,1301-1600 cc,İstanbul
+#3144814,Mercedes,E Serisi,E 220 d AMG,2016,99.800,645.000 TL,06/01/2021,645.000 TL,Marka:,Yarı Otomatik Vites,Dizel,1801-2000 cc,İzmir
+#1962284,Mercedes,E Serisi,E 180 AMG,2014,110.000,405.000 TL,27/12/2020,405.000 TL,Marka:,Otomatik Vites,Benzin,1301-1600 cc,İzmir
+#4773068,Mercedes,E Serisi,E 200 Komp. Avantgarde,1998,276.000,137.500 TL,27/12/2020,137.500 TL,Marka:,Otomatik Vites,Benzin/LPG,1801-2000 cc,İstanbul
+#2701943,Mercedes,E Serisi,E 250 CDI Premium,2012,210.000,410.000 TL,27/12/2020,410.000 TL,Marka:,Yarı Otomatik Vites,Dizel,2001-2500 cc,Gaziantep
+İlan Tarihi:,Model:,Varyant:,Model Yılı:,Kilometre:,Yakıt Türü:,715.000 TL,Marka:,715.000 TL,Mercedes,Motor Hacmi:,Vites Tipi:,Motor Gücü:,İlan No:
+#4244326,Mercedes,E Serisi,E 350 CDI Dynamic,2011,171.000,292.000 TL,27/12/2020,292.000 TL,Marka:,Yarı Otomatik Vites,Dizel,2501-3000 cc,Adana
+#3591304,Mercedes,E Serisi,E 180 Premium,2014,102.854,429.000 TL,27/12/2020,429.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1301-1600 cc,İzmir
+#3488835,Mercedes,E Serisi,E 180 Edition E,2016,85.000,480.000 TL,27/12/2020,480.000 TL,Marka:,Yarı Otomatik Vites,Benzin,1301-1600 cc,Antalya
+#549677,Mercedes,E Serisi,E 250 CDI Elite,2015,178.000,580.000 TL,27/12/2020,580.000 TL,Marka:,Yarı Otomatik Vites,Dizel,2001-2500 cc,İstanbul
+#2795625,Mercedes,E Serisi,E 220 d Avantgarde,2016,140.000,745.000 TL,27/12/2020,745.000 TL,Marka:,Yarı Otomatik Vites,Dizel,1801-2000 cc,İstanbul
+#4546579,Mercedes,E Serisi,E 250 CDI Elite,2013,185.000,465.000 TL,27/12/2020,465.000 TL,Marka:,Yarı Otomatik Vites,Dizel,2001-2500 cc,İstanbul
+#2124503,Mercedes,E Serisi,E 180 Premium,2014,155.000,409.500 TL,27/12/2020,409.500 TL,Marka:,Yarı Otomatik Vites,Benzin,1301-1600 cc,Denizli
+#3265552,Mercedes,E Serisi,E 350 CDI Premium,2011,253.000,365.000 TL,27/12/2020,365.000 TL,Marka:,Otomatik Vites,Dizel,2501-3000 cc,İstanbul
+#2458033,Mercedes,E Serisi,E 180 AMG,2015,77.900,495.000 TL,27/12/2020,495.000 TL,Marka:,Otomatik Vites,Benzin,1301-1600 cc,İstanbul
+#2454502,Mercedes,E Serisi,E 220 CDI Avantgarde,2011,245.000,365.000 TL,27/12/2020,365.000 TL,Marka:,Otomatik Vites,Dizel,1300 cc ve altı,İstanbul
+#2979444,Mercedes,E Serisi,Diğer,2020,1,1.540.000 TL,27/12/2020,1.540.000 TL,Marka:,Otomatik Vites,Dizel,1300 cc ve altı,İstanbul
+#1788037,Mercedes,E Serisi,E 250 CDI Elite,2014,195.315,450.000 TL,27/12/2020,450.000 TL,Marka:,Yarı Otomatik Vites,Dizel,2001-2500 cc,İstanbul
