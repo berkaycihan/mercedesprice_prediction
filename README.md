@@ -33,4 +33,4 @@
 
 
 ![darwin](https://user-images.githubusercontent.com/39379330/113026769-147e3400-9192-11eb-8d04-ccc503ad3769.gif)
-- thanks: @keyiflerolsun KekikAkademi
+- thanks to: @keyiflerolsun KekikAkademi
